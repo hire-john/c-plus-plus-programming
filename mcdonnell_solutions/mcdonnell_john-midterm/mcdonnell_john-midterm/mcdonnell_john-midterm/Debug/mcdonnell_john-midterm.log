@@ -1,0 +1,20 @@
+﻿Build started 4/3/2011 3:09:17 PM.
+     1>Project "C:\Users\jmcdonne\Desktop\CIS1610\projects\mcdonnell_john-midterm\mcdonnell_john-midterm\McDonnell_John-midterm\McDonnell_John-midterm.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\McDonnell_John-midterm.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\McDonnell_John-midterm.unsuccessfulbuild".
+         Touching "Debug\McDonnell_John-midterm.lastbuildstate".
+     1>Done Building Project "C:\Users\jmcdonne\Desktop\CIS1610\projects\mcdonnell_john-midterm\mcdonnell_john-midterm\McDonnell_John-midterm\McDonnell_John-midterm.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14
